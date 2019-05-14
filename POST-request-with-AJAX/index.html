@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Request post sending json</title>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  </head>
+  <body>
+    <input type="hidden" name="pwd" id="pwd" value="123">
+    <button type="button" name="button" id="send"> Send data </button>
+    <script>
+      $("#send").on("click", function () {
+        const item = {
+          password: $("#pwd").val(),
+          isSecure: false
+        };
+
+        $.ajax({
+          type: "POST",
+          accepts: "application/json",
+          url: "RequestPOST.php",
+          contentType: "application/json",
+          data: JSON.stringify(item),
+          error: function (jqXHR, textStatus, errorThrown) {
+            console.log(`${jqXHR}`, ` ${textStatus}`, ` ${errorThrown}`);
+          },
+          success: function (result) {
+            if (result.OK) {
+              window.alert("Todo okey :)");
+            }
+          }
+        });
+      })
+    </script>
+  </body>
+</html>
