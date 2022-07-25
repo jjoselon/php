@@ -1,0 +1,20 @@
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<script>
+
+		function init (callback) {
+			var date = new Date();
+			callback.call(this, date);
+		}
+		init(function (date) {
+			console.log(date);
+		});
+
+
+	</script>
+
+</body>
+</html>
