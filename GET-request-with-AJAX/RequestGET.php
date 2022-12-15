@@ -25,6 +25,6 @@ $data = json_decode($json, true);
 // ... aqui hacemos las respestivas validaciones de los datos entrantes
 
 // ... y aqui devolvemos falso o verdadero según la validación
-echo json_encode(["OK" => true]);
+echo json_encode(["name" => "Capitan America"]);
 
 ?>
