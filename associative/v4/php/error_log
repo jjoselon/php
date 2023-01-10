@@ -1,0 +1,38 @@
+[11-May-2022 22:16:46 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[11-May-2022 22:46:06 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[11-May-2022 22:46:06 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[11-May-2022 22:46:06 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[11-May-2022 22:46:06 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[11-May-2022 22:46:07 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[11-May-2022 22:50:57 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[11-May-2022 22:51:52 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[11-May-2022 23:01:30 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[11-May-2022 23:15:11 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[11-May-2022 23:15:41 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[11-May-2022 23:27:16 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[11-May-2022 23:27:44 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[11-May-2022 23:28:45 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[16-May-2022 01:17:51 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[16-May-2022 01:17:54 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[17-May-2022 20:21:15 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[18-May-2022 11:55:28 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[18-May-2022 12:37:21 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[18-May-2022 14:41:45 America/Recife] PHP Notice:  Undefined index: nickname in /home/clasemys/public_html/proyecto4/php/formulario_crear_producto.php on line 19
+[18-May-2022 14:42:13 America/Recife] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clasemys/public_html/proyecto4/php/crear_producto.php on line 12
+[18-May-2022 16:11:49 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[18-May-2022 16:29:13 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[18-May-2022 16:42:19 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[18-May-2022 16:56:58 America/Recife] PHP Notice:  Undefined index: nickname in /home/clasemys/public_html/proyecto4/php/formulario_crear_producto.php on line 21
+[18-May-2022 16:57:07 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[18-May-2022 16:57:09 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[18-May-2022 16:57:23 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[18-May-2022 17:04:37 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[18-May-2022 17:22:31 America/Recife] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clasemys/public_html/proyecto4/php/crear_producto.php on line 12
+[18-May-2022 17:22:39 America/Recife] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clasemys/public_html/proyecto4/php/crear_producto.php on line 12
+[18-May-2022 17:32:10 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[18-May-2022 17:32:19 America/Recife] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/clasemys/public_html/proyecto4/php/crear_producto.php on line 12
+[18-May-2022 18:12:16 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[18-May-2022 18:15:17 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[18-May-2022 18:15:27 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[18-May-2022 18:15:54 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18
+[18-May-2022 18:43:01 America/Recife] PHP Notice:  Undefined index: rol in /home/clasemys/public_html/proyecto4/php/home.php on line 18

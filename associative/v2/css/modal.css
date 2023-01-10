@@ -1,0 +1,98 @@
+/* -- liwindow -- */
+.liwindow-container *,
+.liwindow-container *::after,
+.liwindow-container *::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.liwindow-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  height: 100%;
+  z-index: 200;
+}
+/* -- liwindow Modal Dialog -- */
+.liwindow-card {
+  margin: 0 auto;
+  margin-top: 40px;
+  width: 500px;
+  max-width: 100%;
+  box-shadow: 0px 0px 25px -5px #333;
+}
+.liwindow-header,
+.liwindow-footer,
+.liwindow-body {
+  background-color: #fff;
+}
+.liwindow-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.liwindow-close {
+  padding: 20px;
+  display: inline-block;
+  font-size: 1.33rem;
+  color: #333;
+  font-weight: bold;
+  background-color: transparent;
+  border: none;
+  transition: 0.3s all;
+}
+.liwindow-close:hover,
+.liwindow-close:focus {
+  color: #7c4dff;
+  background-color: #f3f3f3;
+}
+.liwindow-close:active {
+  color: #7c4dff;
+  transform: translate(-3px, -3px);
+  transform: scale(0.9);
+}
+.liwindow-close:focus {
+  outline: 1px solid #00bcd4;
+}
+.liwindow-body {
+  padding: 20px;
+  color: #333;
+  font-size: 18px;
+}
+.liwindow-header h4 {
+  color: #333;
+  padding: 20px;
+  display: inline-block;
+  font-size: 25px;
+  font-weight: bold;
+}
+.liwindow-footer {
+  text-align: right;
+}
+.liwindow-btn {
+  padding: 20px;
+  background-color: transparent;
+  border: none;
+  color: #9c27b0;
+  text-transform: uppercase;
+  font-size: 15px;
+  transition: 0.3s all;
+}
+.liwindow-btn:hover,
+.liwindow-btn:focus {
+  color: #7c4dff;
+  background-color: #f3f3f3;
+}
+.liwindow-btn:active {
+  color: #7c4dff;
+  transform: translate(-3px, -3px);
+  transform: scale(0.9);
+}
+.liwindow-btn:focus {
+  outline: 1px solid #00bcd4;
+}
+.liwindow-hide {
+  display: none;
+}
