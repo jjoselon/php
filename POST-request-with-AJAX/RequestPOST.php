@@ -8,6 +8,6 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') die("");
 // ... aqui hacemos las respectivas validaciones de los datos entrantes
 
 // ... y aqui devolvemos falso o verdadero según la validación
-echo json_encode(["name" => "Capitan America"]);
+echo json_encode(["name" => "Iron Kind"]);
 
 ?>
